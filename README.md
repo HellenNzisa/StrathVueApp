@@ -1,14 +1,7 @@
 # StrathVueProject
 
-This template should help get you started developing with Vue 3 in Vite.
+StrathVueApp is a demo project made as a learning tool fpor VueJS.It is made to act as a school website.It allows the user to view courses,information about the institution etc.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
@@ -27,3 +20,14 @@ npm run dev
 ```sh
 npm run build
 ```
+##Screenshots of StrathVueApp
+
+Homepage
+![StrathVueApp1](https://github.com/HellenNzisa/StrathVueApp/assets/159112978/bae3bfda-6a7b-4970-ba51-b0cba9a938b2)
+
+Contact Us
+![StrathVueApp2](https://github.com/HellenNzisa/StrathVueApp/assets/159112978/bb41b5dc-30f7-4ae5-98d8-e2c9abefe0fe)
+
+About Us 
+![Uploading StrathVueApp3.png…]()
+
